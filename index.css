@@ -1,0 +1,37 @@
+body, html {
+    background: #FFFFFF;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+textarea {
+    background: #EEEEEE;
+    color: #555555;
+    display: block;
+    margin: 1px auto;
+    padding: 5px;
+    width: 98%;
+    height: 400px;
+    font-size: 1.2em;
+    text-align: left;
+    border: none;
+    outline: none;
+    resize: none;
+}
+
+input::placeholder {
+    color: #44FF44;
+    font-size: 0.8em;
+}
+
+.log {
+    background: #EEEEEE;
+    color: blue;
+    width: 98%;
+    height: 120px;
+    margin: 5px auto;
+    padding: 5px;
+    font-size: 1em;
+    text-align: left;
+    outline: none;
+}
+  
